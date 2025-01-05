@@ -19,9 +19,17 @@ This repository is a learning resource and is ideal for those looking to underst
 - Supports simple neural network architectures (single-layer and multi-layer).
 - Gradient descent optimization for training the network.
 
+## Cloning project
+
+```bash
+git clone https://github.com/rickymnit/Micrograd-from-Scratch.git
+cd Micrograd-from-Scratch
+```
+
 ## Installation
 
 You need Python 3.6+ to run this project. You also need to install the following dependencies:
 
 ```bash
 pip install numpy graphviz
+```
